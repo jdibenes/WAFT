@@ -24,3 +24,4 @@ weights
 *.npz
 *log*
 *hypersim_stats.json*
+/.vscode

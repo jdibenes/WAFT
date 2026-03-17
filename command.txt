@@ -1,0 +1,1 @@
+C:/Users/jdibe/miniconda3/envs/waft/python.exe d:/jcds/Documents/GitHub/WAFT/test_custom.py --cfg config/a1/tar-c-t-custom.json --ckpt checkpoints/tar-c-t.pth --dataset custom
